@@ -38,7 +38,7 @@ normal, insert, visual, comman-line
 commit 전 확인해야 할 사항 자동 수정
 
 ### git Branch
-분기점을 생성하여 독립적으로 코드를 변경할 수 있도록 도와주는 모
+분기점을 생성하여 독립적으로 코드를 변경할 수 있도록 도와주는 모델
 
 ```shell
 $ git branch fizz
